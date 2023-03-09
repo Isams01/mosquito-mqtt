@@ -1,0 +1,22 @@
+{
+  "name": "mosquito-mqtt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Isams01/mosquito-mqtt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Isams01/mosquito-mqtt/issues"
+  },
+  "homepage": "https://github.com/Isams01/mosquito-mqtt#readme",
+  "dependencies": {
+    "mqtt": "^4.3.7"
+  }
+}
